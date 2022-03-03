@@ -54,4 +54,5 @@ Hague Express数据库是检索工业品外观设计的第一站。数据库提�
 
 ## 参考
 
+![Alt](https://repobeats.axiom.co/api/embed/502420e3d7ebdd9c28fb77f26fbf20e04fa836d2.svg "Repobeats analytics image")
 
